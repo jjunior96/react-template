@@ -1,5 +1,3 @@
-**Esse projeto foi desenvolvido para esse [artigo](https://alvesjunior.netlify.app/criando-um-todo-list-para-entender-o-react/).**
-
 ## Executando
 
 No diretório do projeto, execute:
